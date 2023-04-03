@@ -1,5 +1,5 @@
 ````
-docker ps -a
+~ % docker ps -a
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 ````
 ````
