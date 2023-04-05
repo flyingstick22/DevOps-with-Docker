@@ -1,1 +1,6 @@
-
+Secret message:
+````
+Give me the password: basics
+You found the correct password. Secret message is:
+"This is the secret message"
+````
