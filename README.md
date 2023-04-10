@@ -3,7 +3,7 @@ https://devopswithdocker.com
 
 This is my repository for course exercises
 
-I'm adding links soon....
+[Part1](/part1.md)
 
 
 
