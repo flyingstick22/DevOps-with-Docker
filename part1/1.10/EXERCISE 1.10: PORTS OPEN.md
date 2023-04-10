@@ -1,4 +1,4 @@
-I made a new build "portexercise" and added docker file (in exercise 1.8) EXPOSE 8080. 
+I made a new build "portexercise" from docker file in exercise 1.8
 
 ````
 % docker run -p 127.0.0.1:8080:8080 portexercise
