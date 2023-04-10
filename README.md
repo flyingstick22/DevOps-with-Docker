@@ -3,7 +3,7 @@ https://devopswithdocker.com
 
 This is my repository for course exercises
 
-[Part1](DevOps-with-Docker/part1/)
+[Part1](DevOps-with-Docker/tree/main/part1/)
 
 
 
