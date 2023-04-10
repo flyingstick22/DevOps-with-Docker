@@ -16,5 +16,4 @@ WARNING: The requested image's platform (linux/amd64) does not match the detecte
 Message in the browser (localhost:8080)
 ````
 {"message":"You connected to the following path: /","path":"/"}
-
-
+````
