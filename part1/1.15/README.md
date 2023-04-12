@@ -9,7 +9,7 @@ docker pull flyingstickdevops/homework
 Run:
 
 ````
-run docker -d -p 127.0.0.1:5001:5001 homework
+run docker -d -p 127.0.0.1:5001:5001 flyingstickdevops/homework
 ````
 
 
