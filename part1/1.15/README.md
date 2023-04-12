@@ -1,5 +1,7 @@
 This is a simple Flask application that prints **"DevOps is the best!"** at localhost:5001
 
+Link to docker hub: https://hub.docker.com/repository/docker/flyingstickdevops/homework/general
+
 Pull the image:
 
 ````
