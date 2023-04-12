@@ -1,4 +1,4 @@
-This is a simple Flask application that prints "DevOps is the best" at localhost:5001
+This is a simple Flask application that prints **"DevOps is the best!"** at localhost:5001
 
 Pull the image:
 
