@@ -1,4 +1,4 @@
-# DevOps with Docker course by University of Helsinki
+# DevOps with Docker Course by University of Helsinki
 https://devopswithdocker.com
 
 This is my repository for course exercises
