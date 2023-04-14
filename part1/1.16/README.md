@@ -1,6 +1,7 @@
 # International Space Station (ISS) location
 
-I modified my old ISS location project and deployed it using Heroku
+I modified my old ISS location project and deployed it using Heroku.
+
 Link: https://devopsexercise.herokuapp.com
 
 1. I created the application (app.py) by usin Streamlit
