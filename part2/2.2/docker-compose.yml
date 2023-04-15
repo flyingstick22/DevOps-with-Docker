@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+    simple-web-service:
+      image: devopsdockeruh/simple-web-service
+      container_name: simple-web
+      ports: 
+        - 8000:8080
+      command: server
+
