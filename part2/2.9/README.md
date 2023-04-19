@@ -15,10 +15,11 @@ I deleted old front- and backend-images & old volumes:
 and added build commands to docker-compose.yml 
 
 ````build: ./example-frontend````
+
 ````build: ./example-backend````
 
-run
+and the run:
 
 ````docker compose up````
 
-Seems to work
+seems to work...
