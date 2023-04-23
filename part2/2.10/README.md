@@ -1,6 +1,5 @@
 
-
-Command (self build image due to Apple M1 issue. Look nmap Dockerfile about the build):
+Command (self build image due to Apple M1 issue. Look nmap Dockerfile about the build and docker-compose.yml about changes I made):
 
 ````docker run -it --network host nmap 127.0.0.1```` 
 
