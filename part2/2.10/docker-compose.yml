@@ -14,6 +14,7 @@ services:
   frontend:
     image: frontend
     build: ./example-frontend
+ #  Ports not exposed
  #   ports:
  #     - 5001:5000
     container_name: frontend
@@ -21,10 +22,11 @@ services:
   backend:
     image: backend
     build: ./example-backend
+#   Ports not exposed
 #    ports:
 #      - 8080:8080
     environment:
-      - REQUEST_ORIGIN=http://localhost
+      - REQUEST_ORIGIN=http://localhost #This line was added comapared exercise 2.9
       - REDIS_HOST=redis
       - POSTGRES_HOST=db
       - POSTGRES_USER=user
