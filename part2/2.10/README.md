@@ -1,6 +1,7 @@
 
 
 Command (self build image due to Apple M1 issue):
+
 ````docker run -it --network host nmap 127.0.0.1```` 
 
 
