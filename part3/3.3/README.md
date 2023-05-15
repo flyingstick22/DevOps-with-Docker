@@ -1,6 +1,6 @@
 ## Building images inside of a container
 
-Script takes Github and Dockerhub repos' as a parameter
+The script takes Github and Dockerhub repos' as parameters, creates a Docker image from GitHub repo and push the image then to the Dockerhub.
 
 ````./build.sh flyingstick22/express-app flyingstickdevops/express-app````
 
