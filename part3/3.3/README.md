@@ -1,4 +1,4 @@
-## Building images inside the container
+## Building images inside of a container
 
 Script takes Github and Dockerhub repos' as a parameter
 
