@@ -22,7 +22,7 @@ Backend (RUN commands combined, go removed):
 REPOSITORY                                   TAG           IMAGE ID       CREATED         SIZE
 optimized_backend                            latest        d660a86dc9d9   5 seconds ago   239MB
 ````
-Frontend (RUN commands combined.No impact):
+Frontend (RUN commands combined and purge etc. tricks copied from course material. No impact on size):
 ````
 REPOSITORY                                   TAG           IMAGE ID       CREATED          SIZE
 optimized_frontend                           latest        e021fce23502   23 seconds ago   1.21GB
