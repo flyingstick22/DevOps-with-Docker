@@ -16,7 +16,7 @@ WORKDIR /usr/src/app
 COPY --from=build-stage /usr/src/app/build/ /usr/src/app/build
 RUN npm install -g serve && adduser -D Maija && chown Maija build
 USER Maija
-ENTRYPOINT ["serve", "-s", "-l", "5000", "build"]````
+ENTRYPOINT ["serve", "-s", "-l", "5000", "build"]
 ````
 I was trying hard to get this working without using "FROM:node" but after 3h I gave up. It works but it's still quite big.
 
