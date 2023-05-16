@@ -8,8 +8,8 @@ optimized_frontend_2                         latest        4df3baa4a9c8   3 hour
 ````
 Optimization was done by separating build and execution parts as follows:
 
-````
 Execution part:
+````
 FROM node:14-alpine3.13
 EXPOSE 5000
 WORKDIR /usr/src/app
