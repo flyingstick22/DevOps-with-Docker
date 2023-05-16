@@ -36,11 +36,17 @@ Using inspect:
 docker inspect $(docker ps -q) --format '{{.Config.User}} {{.Name}}'
 ````
 
-or go inside containers via another terminal and type
+or go inside containers via another terminal:
 
-````docker exec -it container_name bash````
+````
+docker exec -it container_name bash
+````
 
-and run "whoami" command
+and type: 
+````
+whoami
+````
+
 
 
 
