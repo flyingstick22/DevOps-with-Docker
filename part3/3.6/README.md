@@ -22,9 +22,11 @@ Backend (RUN commands combined, go removed):
 REPOSITORY                                   TAG           IMAGE ID       CREATED         SIZE
 optimized_backend                            latest        d660a86dc9d9   5 seconds ago   239MB
 ````
-Frontend:
-
-
+Frontend (RUN commands combined.No impact):
+````
+REPOSITORY                                   TAG           IMAGE ID       CREATED          SIZE
+optimized_frontend                           latest        e021fce23502   23 seconds ago   1.21GB
+````
 
 
 
