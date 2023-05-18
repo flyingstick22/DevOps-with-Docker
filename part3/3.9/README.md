@@ -17,7 +17,7 @@ What was done:
 
 1. ````ENV CGO_ENABLED=0```` was added to builder image
 
-and scratch image looks as follows:
+and scratch image was made as follows:
 
 ````
 FROM scratch
