@@ -1,4 +1,4 @@
-## Optimize Image
+## Optimizing the image in exercise 1.7
 
 Image from exercise 1.7 was optimized
 
