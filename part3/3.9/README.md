@@ -15,9 +15,7 @@ optimized_backend_3                          latest        ae23fcd39678   52 sec
 
 What was done:
 
-1. The environmental variable ````ENV CGO_ENABLED=0```` was added to builder image and set to 0 (the Go compiler ignores any C source files)
-
-and this allows to use scratch image that was made as follows:
+1. The environmental variable ````ENV CGO_ENABLED=0```` was added to builder image and set to 0 (the Go compiler ignores any C source files) and this allows to use scratch image that was made as follows:
 
 ````
 FROM scratch
