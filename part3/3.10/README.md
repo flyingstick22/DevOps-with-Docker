@@ -2,7 +2,7 @@
 
 Image from exercise 1.7 was optimized
 
-Image sizes was before optimization (112 MB) and after (12.2 MB).
+Image sizes were before optimization (112 MB) and after (12.2 MB).
 
 ````
 REPOSITORY                                   TAG           IMAGE ID       CREATED          SIZE
