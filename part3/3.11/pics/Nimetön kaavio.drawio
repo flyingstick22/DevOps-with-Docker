@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T12:52:43.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="avEg-tZJ9yi3DtT4PeBj" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T12:53:41.581Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Ru4GL_JWSAaKgk8Vjn7t" version="21.3.2" type="github">
   <diagram name="Sivu-1" id="sKDdfknFH7Cz9x-xk31o">
     <mxGraphModel dx="1342" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="350" y="110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZEjh7lJmkJP0OWDX7xh0-13" value="HTTP traffic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="420" y="160" width="90" height="30" as="geometry" />
+          <mxGeometry x="400" y="160" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZEjh7lJmkJP0OWDX7xh0-15" value="Service 1.&amp;nbsp;&lt;br&gt;Home page" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
