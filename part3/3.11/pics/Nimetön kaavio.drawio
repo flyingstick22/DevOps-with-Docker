@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T12:36:47.032Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="acLGQJIpx-WssUXxrxoU" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-21T12:52:43.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="avEg-tZJ9yi3DtT4PeBj" version="21.3.2" type="github">
   <diagram name="Sivu-1" id="sKDdfknFH7Cz9x-xk31o">
     <mxGraphModel dx="1342" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,8 +52,8 @@
             <mxPoint x="300" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ztrkCr3DdEQu6RkhGDGT-4" value="Service 2.&lt;br&gt;Streaming service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="ztrkCr3DdEQu6RkhGDGT-4" value="Service 2.&lt;br&gt;Streaming" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ztrkCr3DdEQu6RkhGDGT-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZEjh7lJmkJP0OWDX7xh0-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
